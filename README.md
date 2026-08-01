@@ -6,6 +6,6 @@ Computer Engineering Student • Full Stack Developer • AI Enthusiast
 
 - 🚀 Building scalable web applications and AI-powered solutions
 - 💻 MERN Stack • Next.js • Java • Python • SQL
-- 🏆 MSME Idea Hackathon 5.0 Finalist (Gramik)
+- 🏆 Selected for MSME Hackathon 5.0 (Gramik)
 - 🌱 Currently exploring System Design, Cloud & AI Engineering
-- 📫 Reach me: your.email@gmail.com
+- 📫 Reach me: vedikaybane.email@gmail.com
