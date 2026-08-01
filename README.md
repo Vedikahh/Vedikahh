@@ -19,7 +19,7 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 - 📈 Completed 2 internships and built 4 production-grade projects
 - 🌱 Currently learning System Design, AI Engineering & DevOps
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Java, Python**
-- 📫 Reach me at vedikaybane.email@gmail.com
+- 📫 Reach me at vedikaybane@gmail.com
 
 ⚡ **Fun Fact:** I enjoy turning ideas into real products.
 
@@ -28,9 +28,9 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/vedika-bane-691998314/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Vedikahh"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:vedikaybane@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
